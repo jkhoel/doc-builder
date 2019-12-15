@@ -1,0 +1,10 @@
+productName: Doc Builder
+appId: com.electron.doc-builder
+provider: github
+repo: doc-builder
+owner: jkhoel
+private: false
+token: ${GH_TOKEN}
+win:
+  target:
+    - nsis
